@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Reinforcement Learning, Aalto University, 2022-2025 (expected)
+  * Research topics: Safe Reinforcement Learning
+* M.S. from Lomonosov Moscow State University, 2018-2020
+  * Courses: Optimal Control theory, Programming (Python, C++)
+  * GPA: 4.05 / 5
+* B.S. from Lomonosov Moscow State University, 2014-2018
+  * Courses: Calculus, Linear Algebra, Physics
+  * GPA: 4.51 / 5
 
 Work experience
 ======
@@ -58,7 +63,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
