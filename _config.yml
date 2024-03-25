@@ -24,8 +24,7 @@ author:
   avatar           : "myself.png"
   name             : "Nikita Kostin"
   pronouns         : # "he/him"
-  bio              : "A passionate machine learning researcher 
-  with expertise in reinforcement learning, computer vision and robotics."
+  bio              : "A machine learning researcher with expertise in reinforcement learning, computer vision and robotics."
   location         : "Espoo, Finland"
   employer         : "Aalto University"
   uri              : # URL
@@ -63,6 +62,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
+  strava           : "https://www.strava.com/athletes/92213792"
   telegram         : "https://t.me/nkostin96"
   tumblr           : # Username
   twitter          : "nikitakostin18"  # Replace this with your X / Twitter handle
@@ -209,6 +209,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  hobbies:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -255,6 +258,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _talks
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
       author_profile: true
       share: true
 
