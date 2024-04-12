@@ -10,6 +10,9 @@
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
+  height: 100vh;
+  overflow-y: auto;
+
   @include clearfix();
   margin-bottom: 1em;
 
@@ -30,11 +33,11 @@
   }
 
   @include breakpoint($large) {
-    padding-right: 50px;
+    padding-right: 30px;
   }
 
   @include breakpoint($x-large) {
-    padding-right: 100px;
+    padding-right: 50px;
   }
 
   h2, h3, h4, h5, h6 {
