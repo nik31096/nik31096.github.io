@@ -72,4 +72,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-[Download as PDF][https://nik31096.github.io/files/nikita_kostin_cv.pdf]
+<embed src="{{ site.baseurl }}/files/nikita_kostin_cv.pdf" width="600" height="700" type='application/pdf'> 
