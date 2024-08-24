@@ -10,24 +10,31 @@ redirect_from:
 {% include base_path %}
 
 # Work Experience
+* **Research Scientist, Aalto University, Espoo, Finland**  
+  *Nov 2021 - Present*
+  - Research in safe and robust reinforcement learning algorithms for robotics.
+  - **Keywords:** Safe Reinforcement Learning, Safe Exploration, Robust Reinforcement Learning.
+  - **Key Technologies:** Python, PyTorch, ROS2, Docker, LaTeX
+  - **Key Achievements:** 
+    - Developed uncertainty-aware safe exploration for reinforcement learning using text-based constraints using a Bayesian cost model, making the agent safely operate in complex, unknown environments (under review); 
+    - Developed robust reinforcement learning algorithm for fast adaptation to unseen dynamical changes using adaptive control (under review).
+
 * **Machine Learning Engineer, Huawei Research Center, Moscow, Russia**  
   *September 2019 - October 2021*  
   - Conducted research and development in deep learning algorithms for image enhancement and super-resolution.
   - **Key Technologies:** Python, TensorFlow, PyTorch, OpenCV, Git. 
   - **Keywords:** Super-resolution, Deblurring, Normalizing Flows, Image Segmentation.
-  - **Achievements:** Developed a deep learning solution for demosaicing of underscreen camera photos, improving image quality by 15%. Designed a super-resolution algorithm based on Normalizing Flows that enhanced image resolution.
+  - **Key Achievements:** 
+    - Developed a deep learning solution for demosaicing of underscreen camera photos, improving image quality by 15%. 
+    - Designed a super-resolution algorithm based on Normalizing Flows that enhanced image resolution.
 
 * **Intern Software Engineer, Samsung Research Russia, Moscow, Russia**  
-  *December 2018 - September 2021*  
+  *June 2018 - August 2019*  
   - Developed AI-based Mobile Testing Automation for Android.
-  - **Key Technologies:** Python, PyTorch, TensorFlow, Git. 
-  - **Achievements:** Created a benchmark of environments for mobile testing automation, leading to faster feature deployment and testing.
-
-* **Intern Software Engineer, Samsung Research Russia, Moscow, Russia**  
-  *June 2018 - November 2018*  
-  - Automated the installation of OpenStack systems.
-  - **Key Technologies:** Python, Bash, Git, OpenStack.
-  - **Achievements:** Awarded an outstanding work certificate for significant contributions to the OVS-OpenStack system, which streamlined deployment processes.
+  - **Key Technologies:** Python, PyTorch, Bash, Git, OpenStack.
+  - **Key Achievements:** 
+    - Created a benchmark of environments for mobile testing automation, leading to faster feature deployment and testing.
+    - Received award an outstanding work certificate for significant contributions to the OVS-OpenStack system, which streamlined deployment processes.
 
 # Education
 * **Ph.D. Candidate in Electrical Engineering, Aalto University**  
