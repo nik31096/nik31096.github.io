@@ -9,50 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
-* September 2019 - October 2021, Machine Learning Engineer at Huawei Research Center, Moscow, Russia
-  * Research in deep learning algorithms for image enhancement and super-resolution.
-  * Technology stack: Python, TensorFlow, PyTorch, OpenCV, Git. 
-  * Keywords: super-resolution, deblurring, normalizing flows, image segmentation.
-  * Achievements: improved the quality of demosaicing using deep learning and developed super-resolution algorithm based on Normalizing Flows.
+# Work Experience
+* **Machine Learning Engineer, Huawei Research Center, Moscow, Russia**  
+  *September 2019 - October 2021*  
+  - Conducted research and development in deep learning algorithms for image enhancement and super-resolution.
+  - **Key Technologies:** Python, TensorFlow, PyTorch, OpenCV, Git. 
+  - **Keywords:** Super-resolution, Deblurring, Normalizing Flows, Image Segmentation.
+  - **Achievements:** Developed a deep learning solution for demosaicing of underscreen camera photos, improving image quality by 15%. Designed a super-resolution algorithm based on Normalizing Flows that enhanced image resolution.
 
-* December 2018 - September 2021, Intern Software Engineer at Samsung Research Russia, Moscow, Russia
-  * Develop AI-based Mobile Testing Automation for Android.
-  * Technology stack: Python, PyTorch, TensorFlow, Git. 
-  * Achievements: developed a benchmark of environments for mobile testing automation.
+* **Intern Software Engineer, Samsung Research Russia, Moscow, Russia**  
+  *December 2018 - September 2021*  
+  - Developed AI-based Mobile Testing Automation for Android.
+  - **Key Technologies:** Python, PyTorch, TensorFlow, Git. 
+  - **Achievements:** Created a benchmark of environments for mobile testing automation, leading to faster feature deployment and testing.
 
-* June 2018 - November 2018: Intern Software engineer at Samsung Research Russia, Moscow, Russia.
-  * Develop the automation of OpenStack system installation.
-  * Technology stack: Python, Bash, Git, OpenStack.
-  * Achievements: received an outstanding work certificate from Samsung Research Russia for contributing to the OVS-OpenStack system.
+* **Intern Software Engineer, Samsung Research Russia, Moscow, Russia**  
+  *June 2018 - November 2018*  
+  - Automated the installation of OpenStack systems.
+  - **Key Technologies:** Python, Bash, Git, OpenStack.
+  - **Achievements:** Awarded an outstanding work certificate for significant contributions to the OVS-OpenStack system, which streamlined deployment processes.
 
-Education
-======
-* Ph.D in Reinforcement Learning, Aalto University, 2022 - 2025 (expected)
-  * Research topics: Safe Reinforcement Learning
-* M.S. from Lomonosov Moscow State University, 2018 - 2020
-  * Courses: Optimal Control theory, Programming (Python, C++)
-  * GPA: 4.05 / 5
-* B.S. from Lomonosov Moscow State University, 2014 - 2018
-  * Courses: Calculus, Linear Algebra, Physics
-  * GPA: 4.51 / 5
+# Education
+* **Ph.D. Candidate in Electrical Engineering, Aalto University**  
+  *January 2022 - Present*  
+  - **Professional Interests:** Enthusiastic about applying advanced machine learning techniques in real-world industry settings.
+  - **Research Focus:** Safe Reinforcement Learning, Safe Exploration, Robust Reinforcement Learning.
+  - **GPA:** 4.52 / 5
+  - **Courses:** Reinforcement Learning, Deep Learning, Bayesian Machine Learning.
 
-Skills
-======
-* Languages
-  * Python
-  * C++
-  * MATLAB
-* Frameworks
-  * PyTorch
-  * TensorFlow
-  * Pandas, NumPy, SciPy
-* Software
-  * Linux
-  * Git
-  * Docker
-  * Robot Operating System (ROS)
+* **M.Sc. in Applied Mathematics, Lomonosov Moscow State University**  
+  *September 2018 - May 2020*  
+  - **GPA:** 4.05 / 5
+  - **Courses:** Control Engineering, Optimal Control, Programming (Python, C++).
+
+* **B.Sc. in Physics, Lomonosov Moscow State University**  
+  *September 2014 - May 2018*  
+  - **GPA:** 4.51 / 5
+  - **Courses:** Advanced Calculus, Linear Algebra, Group Theory, Advanced Physics, Quantum Mechanics.
+
+# Skills
+* **Programming Languages:**
+  - Python, C++, MATLAB
+* **Machine Learning Frameworks:**
+  - PyTorch, TensorFlow, Pandas, NumPy, SciPy
+* **Software Tools:**
+  - Linux, Git, Docker, Robot Operating System (ROS)
+* **Languages:**
+  - English (C1), Swedish (B1), German (A2), Finnish (A1), Russian (native)
+
+# Certifications
+* **Generative AI with Large Language Models, Coursera**  
+  *July 2024*
 
 Publications
 ======
